@@ -1,4 +1,5 @@
 # Footwear Ecommerce Website
+A footwear eCommerce website is an online platform designed to showcase and sell a variety of shoes and footwear products. It typically features product categories, filters for size, color, and style, and a user-friendly interface to browse and purchase items. The website is built using HTML for the structure, CSS for styling and layout, and JavaScript. The site aims to provide a seamless shopping experience with a responsive design for mobile and desktop use. Additionally, it may include a search bar, and promotional offers.
 
 # Output Screens
 ![output_1](https://github.com/user-attachments/assets/5c785b97-7238-43db-906a-dacb88966239)
